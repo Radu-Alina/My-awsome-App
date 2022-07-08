@@ -1,4 +1,10 @@
  h1{
         text-align: center;
-        color: brown;
+        color: black;
          }
+
+ img {
+    display: block;
+    max-width: 900px;
+    padding-left: 180px;
+ }        
